@@ -1,2 +1,2 @@
-# College-Java
-College projects using Java
+# Java_Payroll
+College project using Java
